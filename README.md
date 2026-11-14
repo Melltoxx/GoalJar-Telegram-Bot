@@ -1,4 +1,4 @@
-<img width="622" height="1073" alt="{DE129CEE-E8C4-436D-9E70-FCB445AD96CF}" src="https://github.com/user-attachments/assets/eb630252-df21-45f7-9c15-37f8158de927" />
+
 # 🎯 Скарбничка цілей (GoalJar) — Telegram-бот
 
 Простий Telegram-бот для накопичення грошей на ціль. Усе керування — кнопками, без команд.
@@ -49,3 +49,4 @@ requirements.txt  — залежності
 .env.example      — приклад файлу з токеном
 .gitignore        — файли, які не потрапляють у git
 ```
+<img width="506" height="1019" alt="{F2D07F65-104D-4AF7-9874-9EE3654FE9F6}" src="https://github.com/user-attachments/assets/f1f49e5d-37b4-46fb-82cb-27743f70c819" />
