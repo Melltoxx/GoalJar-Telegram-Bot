@@ -1,0 +1,15 @@
+# Секрети — НІКОЛИ не публікуємо
+.env
+
+# Дані користувачів бота
+bot_data.json
+bot_data.json.tmp
+
+# Віртуальне середовище та кеш Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Налаштування PyCharm
+.idea/
