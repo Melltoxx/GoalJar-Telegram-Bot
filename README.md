@@ -52,9 +52,8 @@ requirements.txt  — залежності
 ## 📸 Скріншоти роботи
 
 <p align="left">
-  <img src= <img width="622" height="1073" alt="{DE129CEE-E8C4-436D-9E70-FCB445AD96CF}" src="https://github.com/user-attachments/assets/09258b31-5b1f-42df-81f2-2fd2620292fd" />
- width="320" alt="Головне меню та прогрес">
-  <img src=<img width="514" height="310" alt="{BA961E8F-95F1-423B-A9F1-1B41BB60379E}" src="https://github.com/user-attachments/assets/cffd3c58-0a73-4c9f-b874-b1b3421e1ffb" />
- width="320" alt="Захист від помилок">
+  <img src="https://github.com" width="320" alt="Головне меню та прогрес">
+  <img src="https://github.com" width="320" alt="Захист від помилок">
 </p>
+
 
