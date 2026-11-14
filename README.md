@@ -1,3 +1,4 @@
+<img width="622" height="1073" alt="{DE129CEE-E8C4-436D-9E70-FCB445AD96CF}" src="https://github.com/user-attachments/assets/eb630252-df21-45f7-9c15-37f8158de927" />
 # 🎯 Скарбничка цілей (GoalJar) — Telegram-бот
 
 Простий Telegram-бот для накопичення грошей на ціль. Усе керування — кнопками, без команд.
