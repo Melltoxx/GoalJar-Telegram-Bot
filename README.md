@@ -52,9 +52,11 @@ requirements.txt  — залежності
 ## 📸 Скріншоти роботи
 
 <p align="left">
-  <img width="320" alt="Головне меню та прогрес" src="https://github.com" />
-  <img width="320" alt="Захист від помилок" src="https://github.com" />
+  <img src="1.png" width="320" alt="Головне меню та прогрес">
+  <img src="2.png" width="320" alt="Захист від помилок">
 </p>
+
+
 
 
 
