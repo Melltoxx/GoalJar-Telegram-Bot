@@ -51,11 +51,9 @@ requirements.txt  — залежності
 ```
 ## 📸 Скріншоти роботи
 
-<p align="left">
-  <img src="1.png" width="320" alt="Головне меню та прогрес">
-  <img src="2.png" width="320" alt="Захист від помилок">
-</p>
+<img width="622" height="320" alt="1 png" src="https://github.com/user-attachments/assets/e2ccc0af-34d3-4bee-82db-656460915ea1" />
 
+<img width="514" height="320" alt="2 png" src="https://github.com/user-attachments/assets/6c953d14-4a29-4e38-b8b2-e74883099fe4" />
 
 
 
