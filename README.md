@@ -49,8 +49,6 @@ requirements.txt  — залежності
 .env.example      — приклад файлу з токеном
 .gitignore        — файли, які не потрапляють у git
 ```
-<img width="514" height="310" alt="{BA961E8F-95F1-423B-A9F1-1B41BB60379E}" src="https://github.com/user-attachments/assets/b9c4ba82-88d3-4a85-b750-2b0dfe9fede3" />
-<img width="622" height="1073" alt="{DE129CEE-E8C4-436D-9E70-FCB445AD96CF}" src="https://github.com/user-attachments/assets/ed6a98a7-5514-441a-97e8-33149cab3956" />
 ## 📸 Скріншоти роботи
 
 <p align="left">
